@@ -1,2 +1,2 @@
 # Reinforcement-Learning-Placement-Solver
-Placement Solver using Reinforcement Learning
+Placement Solver using Reinforcement Learning and Simulated Annealing
